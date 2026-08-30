@@ -1,4 +1,4 @@
-<h1 align="center">HELLO, I'm Octavio Hypólito </h1>
+<h1 align="center">Hello, I'm Octavio Hypólito </h1>
 <h3 align="center">Software Developer Student & CNPq Scholar</h3>
 
 ## Technologies and Tools
