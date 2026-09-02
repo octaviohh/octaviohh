@@ -19,5 +19,5 @@
 ## About me
 
 <p>
-  I started my journey as a data assistant and decided to transition into software development. Currently, I am studying <strong>Multiplatform Software Development at FATEC Jahu</strong> and conducting the <strong>SEIVA</strong> project as a <strong>CNPq Scholar</strong>, in collaboration with Prof. Dr. Maria Aparecida Zem Lopes.
+  I started my journey as a data assistant and decided to transition into software development. Currently, I am studying <strong>Multiplatform Software Development at FATEC Jahu</strong> and conducting the <strong>SEIVA</strong> project as a <strong>CNPq Scholar</strong>, in collaboration with Prof. Dra. Aparecida Maria Zem Lopes.
 </p>
